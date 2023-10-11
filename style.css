@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Pixelify+Sans&display=swap");
+body {
+  background-color: #46351d;
+}
+
+/* Home Page */
+.NavBar {
+  width: 1000px;
+  height: 500px;
+  position: absolute;
+  top: 0%;
+  left: 5%;
+}
+
+.NavBar ul li {
+  font-family: "Anton", sans-serif;
+  font-family: "Pixelify Sans", sans-serif;
+  float: right;
+  list-style: none;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 2rem;
+  color: #7bb2d9;
+}
+
+.NavBar ul li:hover {
+  color: white;
+}
+
+img {
+  width: 450px;
+  height: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h3 {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 80%;
+  left: 48%;
+  color: #7bb2d9;
+}
+
+h1 {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 84%;
+  left: 43%;
+  color: #7bb2d9;
+}
+
+h2 {
+font-family: 'Pixelify Sans', sans-serif;
+  position: absolute;
+  top: 91%;
+  left: 43%;
+  color: #7bb2d9;
+}
