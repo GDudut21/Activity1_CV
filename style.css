@@ -3,7 +3,7 @@ body {
   background-color: #46351d;
 }
 button {
-  background-color: #46351d;
+  background-color: #646f4b;
 }
 /* Home Page */
 .NavBar {
@@ -29,7 +29,7 @@ button {
 
 .HomePage img {
   width: 450px;
-  height: 350px;
+  height: 300px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -63,7 +63,7 @@ button {
 /* About Page */
 img {
   width: 450px;
-  height: 350px;
+  height: 300px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -103,146 +103,146 @@ h1 {
 }
 /* Experience Page */
 .ExperiencePage img {
-    width: 150px;
-    height: 150px;
-  }
-  
-  #java {
-    position: absolute;
-    top: 70%;
-    left: 15%;
-  }
-  
-  #python {
-    position: absolute;
-    top: 70%;
-    left: 34%;
-  }
-  
-  #html {
-    position: absolute;
-    top: 70%;
-    left: 80%;
-  }
-  
-  .ExperiencePage h1 {
-    position: absolute;
-    top: 13%;
-    left: 35%;
-    font-size: 85px;
-    font-weight: bold;
-  }
-  
-  #back {
-    font-family: "Pixelify Sans", sans-serif;
-    position: absolute;
-    top: 36%;
-    left: 17%;
-    font-size: 45px;
-    color: #7bb2d9;
-  }
-  
-  #front {
-    font-family: "Pixelify Sans", sans-serif;
-    position: absolute;
-    top: 36%;
-    left: 73%;
-    font-size: 45px;
-    color: #7bb2d9;
-  }
-  
-  #basicJava {
-    font-family: "Pixelify Sans", sans-serif;
-    position: absolute;
-    top: 79%;
-    left: 9%;
-    font-size: 30px;
-    color: #7bb2d9;
-  }
-  #basicPython {
-    font-family: "Pixelify Sans", sans-serif;
-    position: absolute;
-    top: 79%;
-    left: 27%;
-    font-size: 30px;
-    color: #7bb2d9;
-  }
-  #basicHtml {
-    font-family: "Pixelify Sans", sans-serif;
-    position: absolute;
-    top: 79%;
-    left: 75%;
-    font-size: 30px;
-    color: #7bb2d9;
-  }
+  width: 150px;
+  height: 150px;
+}
 
-  /* Project Page */
+#java {
+  position: absolute;
+  top: 70%;
+  left: 15%;
+}
+
+#python {
+  position: absolute;
+  top: 70%;
+  left: 34%;
+}
+
+#html {
+  position: absolute;
+  top: 70%;
+  left: 80%;
+}
+
+.ExperiencePage h1 {
+  position: absolute;
+  top: 13%;
+  left: 35%;
+  font-size: 85px;
+  font-weight: bold;
+}
+
+#back {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 36%;
+  left: 17%;
+  font-size: 45px;
+  color: #7bb2d9;
+}
+
+#front {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 36%;
+  left: 73%;
+  font-size: 45px;
+  color: #7bb2d9;
+}
+
+#basicJava {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 79%;
+  left: 9%;
+  font-size: 30px;
+  color: #7bb2d9;
+}
+#basicPython {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 79%;
+  left: 27%;
+  font-size: 30px;
+  color: #7bb2d9;
+}
+#basicHtml {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 79%;
+  left: 75%;
+  font-size: 30px;
+  color: #7bb2d9;
+}
+
+/* Project Page */
 .ProjectPage img {
-    width: 400px;
-    height: 300px;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  .ProjectPage h1 {
-    position: absolute;
-    top: 19%;
-    left: 44%;
-    font-size: 40px;
-    font-weight: bold;
-  }
-  .ProjectPage h2 {
-    font-family: "Pixelify Sans", sans-serif;
-    color: #7bb2d9;
-    position: absolute;
-    top: 81%;
-    left: 42%;
-    font-size: 38px;
-  }
- /* Contacts */
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.ProjectPage h1 {
+  position: absolute;
+  top: 19%;
+  left: 44%;
+  font-size: 40px;
+  font-weight: bold;
+}
+.ProjectPage h2 {
+  font-family: "Pixelify Sans", sans-serif;
+  color: #7bb2d9;
+  position: absolute;
+  top: 81%;
+  left: 42%;
+  font-size: 38px;
+}
+
+/* Contacts */
 .ContactPage #email {
-    width: 250px;
-    height: 250px;
-    position: absolute;
-    top: 50%;
-    left: 24%;
-  }
-  
-  .ContactPage #fb {
-    width: 250px;
-    height: 250px;
-    position: absolute;
-    top: 50%;
-    left: 52%;
-  }
-  
-  .ContactPage #github {
-    width: 250px;
-    height: 250px;
-    position: absolute;
-    top: 50%;
-    left: 79%;
-  }
-  
-  .ContactPage h1 {
-    font-size: 30px;
-    position: absolute;
-    top: 70%;
-    left: 27%;
-  }
-  
-  .ContactPage button {
-    font-family: "Pixelify Sans", sans-serif;
-    font-size: 30px;
-    position: absolute;
-    top: 85%;
-    left: 45%;
-    border-radius: 10%;
-  }
-  
-  .ContactPage a {
-    text-decoration: none;
-    color: #301934;
-  }
-  
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 50%;
+  left: 24%;
+}
+
+.ContactPage #fb {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 50%;
+  left: 52%;
+}
+
+.ContactPage #github {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 50%;
+  left: 79%;
+}
+
+.ContactPage h1 {
+  font-size: 30px;
+  position: absolute;
+  top: 70%;
+  left: 27%;
+}
+
+.ContactPage button {
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: 30px;
+  position: absolute;
+  top: 85%;
+  left: 45%;
+  border-radius: 10%;
+}
+
+.ContactPage a {
+  text-decoration: none;
+  color: #301934;
+}
