@@ -2,16 +2,17 @@
 body {
   background-color: #46351d;
 }
-
+button {
+  background-color: #46351d;
+}
 /* Home Page */
 .NavBar {
-  width: 1000px;
+  /* width: 1000px; */
   height: 500px;
   position: absolute;
   top: 0%;
-  left: 5%;
+  left: 10%;
 }
-
 .NavBar ul li {
   font-family: "Anton", sans-serif;
   font-family: "Pixelify Sans", sans-serif;
@@ -22,11 +23,44 @@ body {
   font-size: 2rem;
   color: #7bb2d9;
 }
-
 .NavBar ul li:hover {
   color: white;
 }
 
+.HomePage img {
+  width: 450px;
+  height: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.HomePage h3 {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 80%;
+  left: 48%;
+  color: #7bb2d9;
+}
+
+.HomePage h1 {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 84%;
+  left: 43%;
+  color: #7bb2d9;
+}
+
+.HomePage h2 {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 91%;
+  left: 43%;
+  color: #7bb2d9;
+}
+
+/* About Page */
 img {
   width: 450px;
   height: 350px;
@@ -47,15 +81,23 @@ h3 {
 h1 {
   font-family: "Pixelify Sans", sans-serif;
   position: absolute;
-  top: 84%;
+  top: 78%;
   left: 43%;
   color: #7bb2d9;
 }
 
-h2 {
-font-family: 'Pixelify Sans', sans-serif;
+#gitna {
+  font-family: "Pixelify Sans", sans-serif;
   position: absolute;
-  top: 91%;
-  left: 43%;
+  top: 86%;
+  left: 35%;
+  color: #7bb2d9;
+}
+
+#bgitna {
+  font-family: "Pixelify Sans", sans-serif;
+  position: absolute;
+  top: 90%;
+  left: 29%;
   color: #7bb2d9;
 }
