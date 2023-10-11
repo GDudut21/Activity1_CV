@@ -101,3 +101,77 @@ h1 {
   left: 29%;
   color: #7bb2d9;
 }
+/* Experience Page */
+.ExperiencePage img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  #java {
+    position: absolute;
+    top: 70%;
+    left: 15%;
+  }
+  
+  #python {
+    position: absolute;
+    top: 70%;
+    left: 34%;
+  }
+  
+  #html {
+    position: absolute;
+    top: 70%;
+    left: 80%;
+  }
+  
+  .ExperiencePage h1 {
+    position: absolute;
+    top: 13%;
+    left: 35%;
+    font-size: 85px;
+    font-weight: bold;
+  }
+  
+  #back {
+    font-family: "Pixelify Sans", sans-serif;
+    position: absolute;
+    top: 36%;
+    left: 17%;
+    font-size: 45px;
+    color: #7bb2d9;
+  }
+  
+  #front {
+    font-family: "Pixelify Sans", sans-serif;
+    position: absolute;
+    top: 36%;
+    left: 73%;
+    font-size: 45px;
+    color: #7bb2d9;
+  }
+  
+  #basicJava {
+    font-family: "Pixelify Sans", sans-serif;
+    position: absolute;
+    top: 79%;
+    left: 9%;
+    font-size: 30px;
+    color: #7bb2d9;
+  }
+  #basicPython {
+    font-family: "Pixelify Sans", sans-serif;
+    position: absolute;
+    top: 79%;
+    left: 27%;
+    font-size: 30px;
+    color: #7bb2d9;
+  }
+  #basicHtml {
+    font-family: "Pixelify Sans", sans-serif;
+    position: absolute;
+    top: 79%;
+    left: 75%;
+    font-size: 30px;
+    color: #7bb2d9;
+  }
