@@ -200,3 +200,49 @@ h1 {
     left: 42%;
     font-size: 38px;
   }
+ /* Contacts */
+.ContactPage #email {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 24%;
+  }
+  
+  .ContactPage #fb {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+  }
+  
+  .ContactPage #github {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 79%;
+  }
+  
+  .ContactPage h1 {
+    font-size: 30px;
+    position: absolute;
+    top: 70%;
+    left: 27%;
+  }
+  
+  .ContactPage button {
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    border-radius: 10%;
+  }
+  
+  .ContactPage a {
+    text-decoration: none;
+    color: #301934;
+  }
+  
