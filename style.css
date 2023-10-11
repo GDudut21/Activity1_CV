@@ -175,3 +175,28 @@ h1 {
     font-size: 30px;
     color: #7bb2d9;
   }
+
+  /* Project Page */
+.ProjectPage img {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .ProjectPage h1 {
+    position: absolute;
+    top: 19%;
+    left: 44%;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  .ProjectPage h2 {
+    font-family: "Pixelify Sans", sans-serif;
+    color: #7bb2d9;
+    position: absolute;
+    top: 81%;
+    left: 42%;
+    font-size: 38px;
+  }
